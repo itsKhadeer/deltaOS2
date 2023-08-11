@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">deltaOS2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="currently">Currently</string>
+    <string name="wind">Wind</string>
+    <string name="temp">Temp</string>
+    <string name="degree_celsius_symbol">℃</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="min_max">Min/Max</string>
+    <string name="location">Location</string>
+    <string name="lat_lon">Lat/Lon</string>
+</resources>
